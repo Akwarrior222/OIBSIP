@@ -1,0 +1,50 @@
+/* Styles for the portfolio */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: rgb(51, 51, 51);
+    color: rgb(7, 19, 244);
+    text-align: center;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: rgb(10, 238, 89);
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: rgb(213, 9, 125);
+  }
+  
+  footer {
+    background-color: #eb0606;
+    text-align: center;
+    padding: 10px;
+  }
+  
